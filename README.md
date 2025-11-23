@@ -1,9 +1,5 @@
 # Hi there, I'm Jory! 👋
 
-<p align="center">
-  <img src="profile_banner.svg" alt="A banner image with a cool terminal aesthetic">
-</p>
-
 I'm a Linux and IoT enthusiast from the Netherlands who loves automating things and tinkering with hardware. I believe the command line is a place of beauty and that every device is just a computer waiting for TempleOS.
 
 ---
