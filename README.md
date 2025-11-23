@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Jory</h1>
+# Hi there, I'm Jory! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joryseverijnse" alt="joryseverijnse" /></a> </p>
-
-- 🌱 I’m currently learning **microsoft AZ-900**
-
-- 📫 How to reach me **joryseverijnse@hotmail.com or joryseverijnse@gmail.com**
-
-- ⚡ Fun fact **the earth is round**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jory severijnse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jory severijnse" height="30" width="40" /></a>
+<p align="center">
+  <img src="profile_banner.svg" alt="A banner image with a cool terminal aesthetic">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+I'm a Linux and IoT enthusiast from the Netherlands who loves automating things and tinkering with hardware. I believe the command line is a place of beauty and that every device is just a computer waiting for TempleOS.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joryseverijnse&show_icons=true&locale=en&layout=compact" alt="joryseverijnse" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joryseverijnse&show_icons=true&locale=en" alt="joryseverijnse" /></p>
+### 🔧 What I'm Up To
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joryseverijnse&" alt="joryseverijnse" /></p>
+- 🔭 I’m currently building a script to automatically create a mix from a config file with params.
+- 🌱 I’m learning more about malware development.
+- 💬 Ask me about **Arch Linux**, **Ansible Playbooks**, or why your IoT coffee machine should run OpenWrt.
+- ⚡ Fun fact: I can probably assemble your PC faster than you can make a cup of coffee.
+
+---
+
+### 💻 My Tech Stack & Tools
+
+<p align="center">
+  <a href="https://www.archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://www.prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joryseverijnse&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jory's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joryseverijnse&layout=compact&theme=tokyonight" alt="Jory's Top Languages" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/joryseverijnse).
+
+<p align="center">
+  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
+</p>
